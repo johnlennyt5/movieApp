@@ -1,0 +1,1 @@
+'meta[name=theme-color]' is not supported by Firefox, Firefox for Android, Opera, Safari < 15, Safari on iOS < 15.
